@@ -1,0 +1,23 @@
+commit d54ca845a47d40318c1b9f812c70e1240440f7e8
+Author: Adonisjgallardo <adonisjgallardo@gmail.com>
+Date:   Wed Aug 28 15:38:56 2019 -0500
+
+    Agregado arc3
+
+commit d997a67ac49644dd1ed3e85a39f9a76201594876
+Author: Adonisjgallardo <adonisjgallardo@gmail.com>
+Date:   Wed Aug 28 15:36:38 2019 -0500
+
+    Agregado .gitignore
+
+commit 36a6752417b6e6376960d484284f73a432d7198d
+Author: Adonisjgallardo <adonisjgallardo@gmail.com>
+Date:   Tue Aug 20 15:56:50 2019 -0500
+
+    Creando txt y tex
+
+commit d40d713810b290955e84b002b63f26b80fe071c9
+Author: Adonisjgallardo <adonisjgallardo@gmail.com>
+Date:   Tue Aug 20 15:52:12 2019 -0500
+
+    Probare y probare
